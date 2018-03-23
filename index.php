@@ -3,7 +3,7 @@
     <head>
         <title>Flashlight</title>
     </head>
-    <body style="text-align: center;">
+    <body>
         <a href="./Free-Baton-Bundle/quantity-1.html">
             Free-Baton-Bundle-Quantity-1
         </a><br><br>
