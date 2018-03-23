@@ -252,7 +252,7 @@ h5 {
 .inventory-view h4 {
 	font-size: 30px;
 	margin: 0 0 20px 0;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	width: 100%;
 }
 .inventory-view h2 {
@@ -496,7 +496,7 @@ letter-spacing: -1px;
 }
 .select-quantity th,
 .select-quantity td{
-	text-transform:uppercase;
+	/* text-transform:uppercase; */
 }
 .select-quantity td{
 	padding:20px 10px;
